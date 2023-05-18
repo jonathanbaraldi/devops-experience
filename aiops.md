@@ -1,7 +1,19 @@
 
 
+
+
 https://devopsforlife.io
 
+https://www.linkedin.com/in/jonathanbaraldi/
+
+https://youtube.com/jonathanbaraldi 
+
+https://www.instagram.com/devopsforlife/
+
+Twitter : @BaraldiJonathan
+
+
+![AIOps - DevOps Experience](img/aiops.jpeg)
 
 
 # AIOps - 18 de maio de 2023
@@ -68,8 +80,14 @@ https://www.veritas.com/pt/br/information-center/aiops-definitive-guide
 
 # CUPONS de 50%
 
+Plano Ninja - 50%
+https://pay.hotmart.com/C76066456T?off=j3ciub4g
 
+Plano Jedi - 50%
+https://pay.hotmart.com/C76066456T?off=xqi2zdhn
 
+Plano SuperSayajin
+https://pay.hotmart.com/C76066456T?off=qmebrort
 
 
 
